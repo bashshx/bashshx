@@ -5,10 +5,11 @@
 - 📫 How to reach me ...
 
 <hr>
+<img src="https://komarev.com/ghpvc/?username=bashshx&label=Profile%20views&color=0e75b6&style=flat" alt="bashshx" />
 <div align="center">
-  <a href="https://github.com/LuisSantoTI">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bashshx&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashshx&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/bashshx">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bashshx&show_icons=true&theme=dark&locale=en" alt="bashshx"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashshx&show_icons=true&theme=dark&locale=en&layout=compact" alt="bashshx"/>
 </div>
 <hr>
 <div align="center"> 
