@@ -24,4 +24,4 @@ bashshx/bashshx is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bashshx&show_icons=true&theme=dark&locale=en)](https://git.io/streak-stats)
